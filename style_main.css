@@ -46,3 +46,10 @@ h1 {
   margin: 4px 0;
   color: #555;
 }
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
